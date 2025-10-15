@@ -1,0 +1,6 @@
+README.md
+setup.py
+calculator_lib_by_piani.egg-info/PKG-INFO
+calculator_lib_by_piani.egg-info/SOURCES.txt
+calculator_lib_by_piani.egg-info/dependency_links.txt
+calculator_lib_by_piani.egg-info/top_level.txt
